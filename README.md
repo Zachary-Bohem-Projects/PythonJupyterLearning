@@ -1,3 +1,3 @@
-# Python _ Jupyter _ Latex
+# Python _ Jupyter
 
-This repository is documentation of multiple projects where I learn Python, Jupyter, and Latex.
+This repository is documentation of multiple projects where I learn Python and Jupyter and some ways of using both.

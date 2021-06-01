@@ -9,7 +9,7 @@
 >```
 >['Alpha', 'Bravo', 'Charlie']
 
-To look at the Jupyter documentation go to [this link][2].
+[Jupyter Documentation][2].
 
 This file was formatted using the [Markdown Cheatsheet][1]
 

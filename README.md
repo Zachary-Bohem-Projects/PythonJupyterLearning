@@ -12,7 +12,7 @@
 
 *[Jupyter Documentation][2]*
 
-This file was formatted using the [Markdown Cheatsheet][1]
+*[Markdown Cheatsheet][1]*
 
 [1]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [2]:Documentation

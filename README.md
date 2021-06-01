@@ -1,4 +1,4 @@
-## This repository is documentation of multiple projects where I learn Python and Jupyter and some ways of using mark down to help document.
+## This repository is documentation of multiple projects where I learn Python and Jupyter and some ways of using mark down to help document files.
 
 ### As I learn the languages I will putting the code snippets inside of Jupyter files to display.
 

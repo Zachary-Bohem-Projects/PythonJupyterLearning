@@ -1,4 +1,4 @@
-# This is the navigation for the Jupyter documentation
+# Nav for Jupyter documentation
 
 1. [Lists and Tuples][1]
 

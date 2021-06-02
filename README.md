@@ -1,7 +1,6 @@
 ## This repository is documentation of multiple projects where I learn Python and Jupyter and some ways of using mark down to help document files.
 
 ### As I learn the languages I will putting the code snippets inside of Jupyter files to display.
-
 > #### For example I will write a code block with the output underneath:  
 >```Python
 >array = ["Alpha","Bravo","Charlie"]
@@ -9,9 +8,11 @@
 >```
 >['Alpha', 'Bravo', 'Charlie']
 
-To look at the Jupyter documentation go to [this link][2].
+---
 
-This file was formatted using the [Markdown Cheatsheet][1]
+*[Jupyter Documentation][2]*
+
+*[Markdown Cheatsheet][1]*
 
 [1]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [2]:Documentation
